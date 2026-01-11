@@ -53,15 +53,15 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/SAS_logo.svg" alt="SAS" width="65" height="65" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/2560px-SAS_logo_horiz.svg.png" alt="SAS" width="65" height="65" />
       <br>SAS
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" alt="Excel" width="65" height="65" />
+      <img src="https://cdn.dribbble.com/userupload/42386139/file/original-ace4ceffff5c55ecd9062534764350a2.gif" alt="Excel" width="65" height="65" />
       <br>Excel
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/VBA_Logo.svg" alt="VBA" width="65" height="65" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Microsoft_Visual_Basic_for_Applications_logo.svg/2560px-Microsoft_Visual_Basic_for_Applications_logo.svg.png" alt="VBA" width="65" height="65" />
       <br>VBA
     </td>
     <td align="center" width="96">
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
       <br>SPSS
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Tableau_Logo.png" alt="Tableau" width="65" height="65" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Tableau_Software_Logo_Small.png" alt="Tableau" width="65" height="65" />
       <br>Tableau
     </td>
     <td align="center" width="96">
