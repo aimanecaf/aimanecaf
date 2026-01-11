@@ -50,8 +50,6 @@ Here are some ideas to get you started:
       <img src="https://logo.svgcdn.com/logos/microsoft-power-bi.svg" alt="Power BI" width="65" height="65" />
       <br>Power BI
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/1280px-SAS_logo_horiz.svg.png" alt="SAS" width="65" height="65" />
       <br>SAS
@@ -61,15 +59,17 @@ Here are some ideas to get you started:
       <br>Excel
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Microsoft_Visual_Basic_for_Applications_logo.svg/2560px-Microsoft_Visual_Basic_for_Applications_logo.svg.png" alt="VBA" width="65" height="65" />
-      <br>VBA
+      <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" width="65" height="65" />
+      <br>Confluence
+    </td>
+        <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/1280px-Jira_Logo.svg.png" alt="Jira" width="65" height="65" />
+      <br>Jira
     </td>
     <td align="center" width="96">
       <img src="https://www.decivision.com/wp-content/uploads/2017/03/sap-business-objects-logo-1.png" alt="SAP BO" width="65" height="65" />
       <br>SAP BO
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://e7.pngegg.com/pngimages/291/81/png-clipart-e-logo-spss-modeler-ibm-data-analysis-statistics-ibm-blue-text-thumbnail.png" alt="SPSS" width="65" height="65" />
       <br>SPSS
@@ -86,12 +86,9 @@ Here are some ideas to get you started:
       <img src="https://cdn.dribbble.com/userupload/24890778/file/original-d6503d19e09a7f7c0ce51e1eddbdc1c2.gif" alt="GCP" width="65" height="65" />
       <br>GCP
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://logo.svgcdn.com/logos/qlik.svg" alt="Qlik" width="65" height="65" />
       <br>Qlik
     </td>
-  </tr>
 </table>
 
