@@ -92,5 +92,3 @@ Here are some ideas to get you started:
     </td>
 </table>
 
-![](https://github.com/aimanecaf/aimanecaf/blob/master/generated/overview.svg)
-![](https://github.com/aimanecaf/aimanecaf/blob/master/generated/languages.svg)
