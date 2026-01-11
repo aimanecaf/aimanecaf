@@ -53,11 +53,11 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/2560px-SAS_logo_horiz.svg.png" alt="SAS" width="65" height="65" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/1280px-SAS_logo_horiz.svg.png" alt="SAS" width="65" height="65" />
       <br>SAS
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.dribbble.com/userupload/42386139/file/original-ace4ceffff5c55ecd9062534764350a2.gif" alt="Excel" width="65" height="65" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1280px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="65" height="65" />
       <br>Excel
     </td>
     <td align="center" width="96">
