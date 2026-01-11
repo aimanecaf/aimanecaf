@@ -65,13 +65,13 @@ Here are some ideas to get you started:
       <br>VBA
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/SAP_logo.svg" alt="SAP BO" width="65" height="65" />
+      <img src="https://www.decivision.com/wp-content/uploads/2017/03/sap-business-objects-logo-1.png" alt="SAP BO" width="65" height="65" />
       <br>SAP BO
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/IBM_SPSS_Statistics_icon.svg" alt="SPSS" width="65" height="65" />
+      <img src="https://e7.pngegg.com/pngimages/291/81/png-clipart-e-logo-spss-modeler-ibm-data-analysis-statistics-ibm-blue-text-thumbnail.png" alt="SPSS" width="65" height="65" />
       <br>SPSS
     </td>
     <td align="center" width="96">
@@ -79,19 +79,15 @@ Here are some ideas to get you started:
       <br>Tableau
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Dataiku_logo.svg" alt="Dataiku" width="65" height="65" />
+      <img src="https://upload.wikimedia.org/wikipedia/fr/9/91/Dataiku_logo.png" alt="Dataiku" width="65" height="65" />
       <br>Dataiku
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_Cloud_Platform_Logo.svg" alt="GCP" width="65" height="65" />
+      <img src="https://cdn.dribbble.com/userupload/24890778/file/original-d6503d19e09a7f7c0ce51e1eddbdc1c2.gif" alt="GCP" width="65" height="65" />
       <br>GCP
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://logo.svgcdn.com/logos/alteryx.svg" alt="Alteryx" width="65" height="65" />
-      <br>Alteryx
-    </td>
     <td align="center" width="96">
       <img src="https://logo.svgcdn.com/logos/qlik.svg" alt="Qlik" width="65" height="65" />
       <br>Qlik
