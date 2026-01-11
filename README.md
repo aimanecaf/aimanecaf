@@ -63,7 +63,7 @@ Here are some ideas to get you started:
       <br>Confluence
     </td>
         <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/1280px-Jira_Logo.svg.png" alt="Jira" width="65" height="65" />
+      <img src="https://icon.icepanel.io/Technology/svg/Jira.svg" alt="Jira" width="65" height="65" />
       <br>Jira
     </td>
     <td align="center" width="96">
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
       <br>SPSS
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Tableau_Software_Logo_Small.png" alt="Tableau" width="65" height="65" />
+      <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol-700x394.png" alt="Tableau" width="65" height="65" />
       <br>Tableau
     </td>
     <td align="center" width="96">
