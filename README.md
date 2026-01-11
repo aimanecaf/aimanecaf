@@ -59,7 +59,7 @@ Here are some ideas to get you started:
       <br>Excel
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" width="65" height="65" />
+      <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" width="55" height="55" />
       <br>Confluence
     </td>
         <td align="center" width="96">
@@ -92,3 +92,5 @@ Here are some ideas to get you started:
     </td>
 </table>
 
+![](https://github.com/aimanecaf/aimanecaf/blob/master/generated/overview.svg)
+![](https://github.com/aimanecaf/aimanecaf/blob/master/generated/languages.svg)
