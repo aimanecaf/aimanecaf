@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋 Hi there, I'm **Aimane CAF**
+Welcome to my GitHub!
+
+I'm a **Data Analyst** passionate about turning data into actionable insights. I specialize in analyzing, visualizing, and interpreting data to help businesses make smarter, data-driven decisions.
+
+
 
 <!--
 **aimanecaf/aimanecaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
