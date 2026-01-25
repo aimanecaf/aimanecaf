@@ -55,7 +55,7 @@ Here are some ideas to get you started:
       <br>SAS
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1280px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="65" height="65" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" alt="Excel" width="65" height="65" />
       <br>Excel
     </td>
     <td align="center" width="96">
