@@ -62,7 +62,9 @@ Here are some ideas to get you started:
       <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" width="55" height="55" />
       <br>Confluence
     </td>
-        <td align="center" width="96">
+  </tr>
+  <tr>
+    <td align="center" width="96">
       <img src="https://icon.icepanel.io/Technology/svg/Jira.svg" alt="Jira" width="65" height="65" />
       <br>Jira
     </td>
@@ -90,5 +92,6 @@ Here are some ideas to get you started:
       <img src="https://logo.svgcdn.com/logos/qlik.svg" alt="Qlik" width="65" height="65" />
       <br>Qlik
     </td>
+  </tr>
 </table>
 
