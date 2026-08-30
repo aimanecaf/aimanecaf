@@ -89,7 +89,7 @@ Here are some ideas to get you started:
       <br>GCP
     </td>
     <td align="center" width="96">
-      <img src="https://logo.svgcdn.com/logos/qlik.svg" alt="Qlik" width="65" height="65" />
+      <img src="https://www.synaltic.fr/wp-content/uploads/2020/11/Logo-Qlik.png" alt="Qlik" width="65" height="65" />
       <br>Qlik
     </td>
   </tr>
