@@ -47,7 +47,7 @@ Here are some ideas to get you started:
       <br>SQL
     </td>
     <td align="center" width="96">
-      <img src="https://logo.svgcdn.com/logos/microsoft-power-bi.svg" alt="Power BI" width="65" height="65" />
+      <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png" alt="Power BI" width="65" height="65" />
       <br>Power BI
     </td>
     <td align="center" width="96">
